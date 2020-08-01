@@ -1,4 +1,4 @@
-hp,rpm,load,closed,freq,before,after,rewind,dowels,efficiency
+hp,rpm,load,current,voltage,temperature,current_change,voltage_change,temp_change,efficiency
 10,900,100,0,100,0,0,0,0,87.2
 10,900,75,0,100,0,0,0,0,87.6
 10,900,50,0,100,0,0,0,0,86.3
